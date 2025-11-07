@@ -1,8 +1,8 @@
 {
   "iconDefinitions": {
     "_file": { "iconPath": "../icons/files/txt.png" },
-    "_folder": { "iconPath": "../icons/folders/folder.svg" },
-    "_folder_open": { "iconPath": "../icons/folders/open-folder.png" },
+    "_folder": { "iconPath": "../icons/folders/folder.png" },
+    "_folder_open": { "iconPath": "../icons/folders/folder-open.png" },
     "js": { "iconPath": "../icons/files/js.png" },
     "ts": { "iconPath": "../icons/files/ts.png" },
     "html": { "iconPath": "../icons/files/html.png" },

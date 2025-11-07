@@ -36,7 +36,7 @@ A Visual Studio Code extension that adds pixel art-style icons to your file expl
 
 If you find any issues or have suggestions:
 
-1. Go to the [GitHub repository](https://github.com/wolfsouldev/material-pixel)
+1. Go to the [GitHub repository](https://github.com/wolfsouldev/jerrys-pixel-icons)
 2. Open an issue
 3. Include:
    - Description of the problem
