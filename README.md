@@ -17,6 +17,8 @@ A Visual Studio Code extension that adds pixel art-style icons to your file expl
 3. Search for "Jerry's Pixel Icons"
 4. Click Install
 
+Or install directly from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=MelissaGutierrez.jerrys-pixel-icons&ssr=false#overview)
+
 ### From VSIX
 
 1. Download the .vsix file from the releases
