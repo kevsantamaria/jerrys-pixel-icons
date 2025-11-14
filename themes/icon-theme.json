@@ -56,6 +56,7 @@
     "svg" :{"iconPath": "../icons/files/svg.png"},
     "vid" :{"iconPath": "../icons/files/mp4.png"},
     "aud" :{"iconPath": "../icons/files/mp3.png"},
+    "yarn":{"iconPath": "../icons/files/yarn.png"},
     
     // Folder Icons
     "assets":{"iconPath": "../icons/folders/assets.png"},
@@ -172,7 +173,7 @@
     ".gitmodules": "git",
     "package.json": "npm",
     "package-lock.json": "npm",
-    "yarn.lock": "npm",
+    "yarn.lock": "yarn",
     "pnpm-lock.yaml": "pnpm",
     "bun.lockb": "bun",
     ".env": "env",
@@ -215,7 +216,9 @@
     "i18n":"i18n",
     "layouts":"layouts",
     "pages":"pages",
-    "styles":"styles"
+    "styles":"styles",
+    "icons":"icons",
+    "themes":"themes"
 
   },
   "folderNamesExpanded": {
@@ -234,6 +237,8 @@
     "i18n":"i18n_open",
     "layouts":"layouts_open",
     "pages":"pages_open",
-    "styles":"styles_open"
+    "styles":"styles_open",
+    "icons":"icons_open",
+    "themes":"themes_open"
   }
 }
