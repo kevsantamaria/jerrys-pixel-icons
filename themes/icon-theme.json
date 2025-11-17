@@ -120,6 +120,10 @@
     "middleware_open":{"iconPath": "../icons/folders/middleware-open.png"},
     "routes":{"iconPath": "../icons/folders/routes.png"},
     "routes_open":{"iconPath": "../icons/folders/routes-open.png"},
+    "docs":{"iconPath": "../icons/folders/docs.png"},
+    "docs_open":{"iconPath": "../icons/folders/docs-open.png"},
+    "test":{"iconPath": "../icons/folders/test.png"},
+    "test_open":{"iconPath": "../icons/folders/test-open.png"},
 
   },
   "file": "_file",
@@ -255,7 +259,7 @@
     ".prettierignore":"prettier",
     "eslint.config.js":"eslint",
     "eslint.config.mjs":"eslint",
-    "favicon.ico":"favicon",
+    "favicon.*":"favicon",
     "robots.txt":"robot",
     "astro.config.js":"astro",
     "astro.config.mjs":"astro",
@@ -297,7 +301,11 @@
     "env":"env_folder",
     ".env":"env_folder",
     "middleware":"middleware",
-    "routes":"routes"
+    "routes":"routes",
+    "docs":"docs",
+    "tests":"test",
+    "spec":"test",
+    "cypress":"test"
   },
   "folderNamesExpanded": {
     "src": "src_open",
@@ -316,8 +324,10 @@
     "release":"bin_open",
     "i18n":"i18n_open",
     "layouts":"layouts_open",
+    "layout":"layouts_open",
     "pages":"pages_open",
     "styles":"styles_open",
+    "style":"styles_open",
     "icons":"icons_open",
     "themes":"themes_open",
     "debug":"debug_open",
@@ -331,6 +341,10 @@
     "env":"env_folder_open",
     ".env":"env_folder_open",
     "middleware":"middleware_open",
-    "routes":"routes_open"
+    "routes":"routes_open",
+    "docs":"docs_open",
+    "tests":"test_open",
+    "spec":"test_open",
+    "cypress":"test_open"
   }
 }
